@@ -1,0 +1,12 @@
+
+{
+  "name": "Golden Football - Career Mode - Beta",
+  "short_name": "Golden Football",
+  "description": "Jogo de futebol 3D com modo carreira.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101820",
+  "theme_color": "#101820"
+}
